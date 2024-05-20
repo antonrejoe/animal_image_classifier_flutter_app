@@ -1,5 +1,9 @@
-## Simple Animal Image classifier model 
-### Deployed using a flutter application
+## Animal Image classifier model deployed using flutter
+
+<div align="center">
+  <Image src="https://github.com/antonrejoe/animal_image_classifier_flutter_app/assets/89238559/32d24f8d-f769-41f5-a25d-1ebb0724d348" width="400" />
+  <Image src="https://github.com/antonrejoe/animal_image_classifier_flutter_app/assets/89238559/5d4f4337-296f-467e-8866-fcf812109594" width="400" />
+</div>
 
 #### Get it up and running locally
 - Install flutter  <a id='flutter' href="https://docs.flutter.dev/get-started/install">Installation guide for Flutter</a>
