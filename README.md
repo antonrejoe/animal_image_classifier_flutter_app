@@ -1,16 +1,21 @@
-# tflite_image_classification
+## Simple Animal Image classifier model 
+### Deployed using a flutter application
 
-A new Flutter project.
+#### Get it up and running locally
+- Install flutter  <a id='flutter' href="https://docs.flutter.dev/get-started/install">Installation guide for Flutter</a>
+- For working with android applications install Android Studio (recommended)  <a id="androidStudio" href="https://developer.android.com/studio/install">Installation guide of Android studio</a>
+- Run the below mentioned commands
+```
+git clone https://github.com/antonrejoe/animal_image_classifier_flutter_app.git
+cd animal_image_classifier_flutter_app
+flutter pub get
+flutter run
+```
+- Note:
+  - You could also setup [flutter for vscode](https://docs.flutter.dev/tools/vs-code) and run the application with it  
+-----
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Here is a small walkthrough of the app
+<div align="center">
+  <video src="https://github.com/antonrejoe/animal_image_classifier_flutter_app/assets/89238559/de9b05c1-3957-44ef-94d8-5fc546ae0206" width="400" />
+</div>
