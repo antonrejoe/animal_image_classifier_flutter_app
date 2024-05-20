@@ -38,4 +38,4 @@ flutter run
 - This project is licensed under [the MIT License](https://github.com/antonrejoe/animal_image_classifier_flutter_app/blob/main/LICENSE) - see the LICENSE file for details.
 
 #### Contact
-- For any queries contact me at <a href="emhr3k0fb@mozmail.com">emhr3k0fb@mozmail.com</a>
+- For any queries contact me at <a href="emhr3k0fb@mozmail.com">emhr3k0fb@mozmail.com</a> ✌️
