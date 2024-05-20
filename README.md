@@ -21,7 +21,7 @@ flutter pub get
 ```
 - Make sure you have all the dependcies present in the [pubspec.yaml](https://github.com/antonrejoe/animal_image_classifier_flutter_app/blob/main/pubspec.yaml)
   are installed
-- Also ensure that `assets/` folder container `model.tflite` and `label.txt` files respectively
+- Also ensure that `assets/` folder contains `model.tflite` and `label.txt` files respectively
 ```
 flutter run
 ```
